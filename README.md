@@ -15,11 +15,9 @@ First of all, we has performed the visualisation to have a overview of the group
 - Settlement (size of city where customer lives in): The majority of customers come from small cities, followed by mid-sized cities, and then big cities.
 
 ## 3. Customer Segmentation:
-3.1. Find the optimal number of clusters (customer segments)
-We will use the Elbow Method to determine the optimal number of clusters (customer segments).
-3.2. Estimate and analyse customer segments
-We will use two clustering techniques: KMeans and Agglomerative Hierarchical Clustering to estimate the clusters.
-3.3. Compare the clusters identified by the two techniques
+- Find the optimal number of clusters (customer segments): We will use the Elbow Method to determine the optimal number of clusters (customer segments).
+- Estimate and analyse customer segments: We will use two clustering techniques: KMeans and Agglomerative Hierarchical Clustering to estimate the clusters.
+- Compare the clusters identified by the two techniques
 
 ## 4. Recommendations of marketing techniques for the target customer segments:
 - Middle-Aged Affluent Females, Highest Income
