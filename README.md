@@ -1,8 +1,8 @@
 # Customer-segmentation-analysis
 ## 1. Introduction:
-Customer segmentation is a critical process for business to understand each group of customers’ needs, preferences, and behaviors. Therefore, business can develop the effective marketing strategy and campaign to each customer segment.
-In this report, we will explore a dataset of 2,000 customers collected through loyalty cards. Using this dataset, we will perform customer segmentation analysis. The goal is to identify distinct customer segments based on their attributes such as gender, age, marital status, income, education, occupation and the size of the city that the customer lives in. 
-This customer segementation analysis is expected to provide marketing strategy recommendations to the business management on how to target these customer segments effectively.
+- Customer segmentation is a critical process for business to understand each group of customers’ needs, preferences, and behaviors. Therefore, business can develop the effective marketing strategy and campaign to each customer segment.
+- In this report, we will explore a dataset of 2,000 customers collected through loyalty cards. Using this dataset, we will perform customer segmentation analysis. The goal is to identify distinct customer segments based on their attributes such as gender, age, marital status, income, education, occupation and the size of the city that the customer lives in.
+- This customer segementation analysis is expected to provide marketing strategy recommendations to the business management on how to target these customer segments effectively.
 
 ## 2. Exploratory Data Analysis:
 First of all, we has performed the visualisation to have a overview of the group of 2,000 customers.
