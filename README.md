@@ -1,2 +1,4 @@
 # Customer-segmentation-analysis
-This is the project performing customer segmentation analysis for a large supermarket chain with a dataset of 2000 customers that has been collected through loyalty cards that customers use at checkout, and includes variables such as customer age, gender and annual income.
+Customer segmentation is a critical process for business to understand each group of customers’ needs, preferences, and behaviors. Therefore, business can develop the effective marketing strategy and campaign to each customer segment.
+In this report, we will explore a dataset of 2,000 customers collected through loyalty cards. Using this dataset, we will perform customer segmentation analysis. The goal is to identify distinct customer segments based on their attributes such as gender, age, marital status, income, education, occupation and the size of the city that the customer lives in. 
+This customer segementation analysis is expected to provide marketing strategy recommendations to the business management on how to target these customer segments effectively.
